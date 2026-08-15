@@ -1,0 +1,8 @@
+node_modules
+vendor
+public/storage
+storage
+bootstrap/cache
+.git
+.env
+.dockerignore
